@@ -1,0 +1,87 @@
+body{
+	background-color: #c0b5a5;
+}
+div.button{
+	width: 50px;
+	height: 45px;
+	float:left;
+	text-align:center;
+	color:#adadad;
+	margin-top:9px;
+	margin-left:9px;
+	cursor:pointer;
+	background-image: url("../../style/image/over.png");
+}
+div.release{
+	width: 50px;
+	height: 45px;
+	float:left;
+	text-align:center;
+	color:#adadad;
+	margin-top:9px;
+	margin-left:9px;
+	cursor:pointer;
+	background-image: url("../../style/image/release.png");
+}
+div.press{
+	width: 50px;
+	height: 45px;
+	float:left;
+	text-align:center;
+	color:#adadad;
+	margin-top:9px;
+	margin-left:9px;
+	cursor:pointer;
+	background-image: url("../../style/image/press.png");
+}
+div.back{
+	outline-style :solid;
+	outline-color : #9284c6;
+	width: 332px;
+	height: 440px;
+	background: #c0b5a5;
+}
+div.area{
+	width: 312px;
+	height: 77px;
+	position:relative; top:10px; left:10px;
+	background-image: url("../../style/image/area.png");
+}
+div.buttonArea{
+	width: 312px;
+	height: 342px;
+	position:relative; top:15px; left:10px;
+	background-image: url("../../style/image/background.png");
+}
+div.text{
+	width: 273px;
+	height: 43px;
+	font-size:25px;
+	position:relative; top:15px; left:25px;
+	text-align:right;
+	color:#2b4352;
+	background-image: url("../../style/image/textback.png");
+}
+div.small{
+	width: 273px;
+	height: 43px;
+	font-size:18px;
+	position:relative; top:15px; left:25px;
+	text-align:right;
+	color:#555555;
+	background-image: url("../../style/image/textback.png");
+}
+span{
+	width: 273px;
+	height: 35px;
+	font-size:25px;
+	position:relative; top:10px; left:0px;
+	text-align:right;
+}
+span.small{
+	width: 273px;
+	height: 35px;
+	font-size:15px;
+	position:relative; top:10px; left:0px;
+	text-align:right;
+}
