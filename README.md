@@ -3,7 +3,7 @@
 ### 源码下载到本地可以用电脑浏览器直接打开
 - 最终的样子
 
-![](https://github.com/uboger/calculate/blob/master/face.png)
+![](https://github.com/uboger/calculate/blob/master/face.gif)
 
 # 简单的网页计算器实现过程
 ### 一、文件夹结构
